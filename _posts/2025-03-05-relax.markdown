@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Relax"
+date:   2025-03-04
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAzkSor2etc?si=sTLALZTdqQ9iIg_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+You should watch that video because Brian Clough has a lovely way of speaking.
+
+> “You can't do anything to the best of your ability unless you relax. Nobody can. Whether it's sex, job, driving a car, whatever—you've got to relax. Then it oozes out of you.”
+
+I've been thinking a lot about this quote lately. 
+
+Startups can be unreasonably hard work; long hours, lots of uncertainty, time relentlessly chewing through your runway like an eldrich horror. No chill whatsoever.
+
+So what, that's the game right? Well, if you believe Brian Clough (and I do), you _need_ to relax to do your best work. And for it to all work out in the end, your Startup needs you to do your best work.
+
+The irony is, we often see relaxation as something we have to earn - after reaching the next milestone, securing funding, achieving profitability or just making that damn graph go up and to the right. But the secret Clough hints at is exactly the opposite: relaxation is not a reward for success; it's a prerequisite.
+
+I don't think it's about escaping your responsibilities. I'm not even sure it's about stepping away for a break. It's about reclaiming clarity and creativity. 
+
+# Recognizing When You're Not Relaxed
+
+First things first: how do you know when you're not relaxed? 
+
+I end up in a state of extreme context switching. I'll start something, hit a wall, think "oh shit I've got to do this other thing" then context switch. By the end of the day you're fried and haven't really done anything. 
+
+I bet you have a different pattern, and I bet it's annoying for you too. But try, if you can, to spot the signs and let yourself feel it and notice it.
+
+# Doing Something About It
+
+I'll spare you all the normal waffle about taking a break, long walks, the gym - I'm sure you already know that. For me, the thing that works is re-engaging some creativity in a way that doesn't demand output. Sketch out some plans for the next-big-thing you wanna build. Unskillfully attach the [rocks' head to a spider](https://makerworld.com/en/models/665948-articulated-rock-head-spider#profileId-593457). Whatever. Make it fun and make it not feel like something you have to do.
+
+So I guess I'm saying, take relaxing as seriously as you take the work to be done.
+

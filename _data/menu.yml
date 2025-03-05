@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: who?
+  - title: Who?
     entries:
       - title: I'm a co-founder and CTO at Jitty
         url: https://jitty.com
@@ -12,15 +12,8 @@ entries:
         url: https://www.linkedin.com/in/daniel-cooper-469a3313/
 
 
-  - title: Blog
+  - title: Words
     post_list: true
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
 
   - title: rss
     url: feed.xml
