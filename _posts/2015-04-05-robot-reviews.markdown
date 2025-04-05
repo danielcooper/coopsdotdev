@@ -1,4 +1,4 @@
-# I'd think carefully about letting AI code reviews become the norm
+I'd think carefully about letting AI code reviews become the norm.
 
 Code reviews can be boring, difficult, or both. Everyone hates how long they can take. So why not just automate them away using the power of large language models?
 
