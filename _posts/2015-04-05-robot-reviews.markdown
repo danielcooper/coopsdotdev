@@ -18,6 +18,6 @@ Now I don't know about you, but I don't read my codebases for fun. Most of what'
 
 ## What'll happen (maybe, idk)
 
-Pessimistically, I suspect what'll inevitably happen (because no one is lazier than an engineer) is that as an industry, we'll slowly stop doing human reviews. PRs will grow increasingly large and unreviewable except by the dogged determinism of a GPU boiling a lake. We'll lose the shared context of what's being shipped in our teams beyond the ticket level. 
+Pessimistically, I suspect what'll inevitably happen (because no one is lazier than an engineer) is that as an industry, we'll slowly stop doing human reviews. PRs will grow increasingly large and unreviewable except by the dogged determination of a GPU boiling a lake. We'll lose the shared context of what's being shipped in our teams beyond the ticket level. 
 
 Maybe people will have to start doing UML diagrams again.
