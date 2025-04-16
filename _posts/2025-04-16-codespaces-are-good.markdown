@@ -6,7 +6,9 @@ Just: open a codespace, make a change, commit it. Done.
 
 It’s especially good for people who don’t want to set up (and try and maintain) a whole development environment just to tweak a button colour or copy block. Our designer can spin one up, make changes directly in the app, and see them in context, and crucially _try stuff out_, without waiting for an engineer to be free. 
 
-No Homebrew. No weird shell config (which as a fish user I appreciate). No "oh you actually need this other service running", it’s the same for everyone. Same image. Same setup. Same version of Node or Rails or whatever else we’re breaking this week.
+You're not tied to running things on a remote machine. While it's useful to use the hosted version if you're infrequently at the codeface, it's just .devcontainers. Anything that can run docker and vscode will get you pretty much the same experience without the hourly bill.
+
+But no Homebrew. No weird shell config (which as a fish user I appreciate). No "oh you actually need this other service running", it’s the same for everyone. Same image. Same setup. Same version of Node or Rails or whatever else we’re breaking this week.
 
 It’s the kind of thing that doesn’t feel like a big deal until you remember how painful it was before. Especially in early teams where people float between roles and new dependencies are still being added before everything ocifies.
 
