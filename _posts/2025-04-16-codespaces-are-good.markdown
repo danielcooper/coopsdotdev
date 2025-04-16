@@ -8,8 +8,8 @@ It’s especially good for people who don’t want to set up (and try and mainta
 
 No Homebrew. No weird shell config (which as a fish user I appreciate). No "oh you actually need this other service running", it’s the same for everyone. Same image. Same setup. Same version of Node or Rails or whatever else we’re breaking this week.
 
-Honestly, it’s the kind of thing that doesn’t feel like a big deal—until you remember how painful it was before. Especially in early teams where people float between roles and new dependencies are still being added before everything ocifies.
+It’s the kind of thing that doesn’t feel like a big deal until you remember how painful it was before. Especially in early teams where people float between roles and new dependencies are still being added before everything ocifies.
 
 Some things are kinda annoying - when running locally IO performance kinda sucks between mount-points. If the base dev image needs to be rebuilt you better hope it's a decent walk to your local coffee shop. But on the whole, 10/10 would containerize again.
 
-So, if your team still has a multi-page setup guide in Notion and a Slack channel called #dev-env-help, or every new joiner has suffers though a setup day before they can do anything - give codespaces a go. Let people ship.
+So, if your team still has a multi-page setup guide in Notion and a Slack channel called #dev-env-help, or every new joiner suffers though a setup day before they can do anything - give codespaces a go. Let people ship.
