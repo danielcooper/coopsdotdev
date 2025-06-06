@@ -27,9 +27,9 @@ And yeah, we’ve tried to codify it. SOLID. DRY. YAGNI. KISS. A load of little 
 
 It’s seen more code than any human ever will. Whole GitHubs full of it. The good, the bad, the Stack Overflow. You’d think it would have developed a sense of style by now. Or at least be less happy about having to do so much Python.
 
-But it hasn’t. Because taste doesn’t come from exposure alone. It comes from judgment. From experiance doing painful things. From fucking up and finding out. From suffering.
+But it hasn’t. Because taste doesn’t come from exposure alone. It comes from judgment. From experience doing painful things. From fucking up and finding out. From suffering.
 
-AI isn’t opinionated. It doesn’t have a favourite way to do things. It doesn’t recoil at a three-level nested service layer. It’s not haunted by the time it tried to genericise everything and ended up with `BaseBaseControllerService`. It’s not proud of a bit of craft, or quietly ashamed of a shortcut. It doesn’t learn lessons, it just makes predictions. It has no concept of "this will hurt me later".
+AI isn’t opinionated. It doesn’t have a favourite way to do things. It doesn’t recoil at a three-level nested service layer. It’s not haunted by the time it tried to genericise everything and ended up with `BaseBaseControllerService`. It’s not proud of a bit of craft, or ashamed of a shortcut. It doesn’t learn lessons, it just makes predictions. It has no concept of "this will hurt me later".
 
 Try it now, ask it to do something and watch it litter the code with:
 
