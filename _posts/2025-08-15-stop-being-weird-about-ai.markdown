@@ -3,6 +3,8 @@ title: Stop being weird about AI
 ---
 
 ![Scrum](/assets/images/truck.gif)
+
+
 As I sit here and wonder if I really should let Kiro (which is very good btw) run whatever python script it fancies, it's hard not to notice just how big a change we've all been dealing with in the past year is. 50 years of hard won engineering lessions may well be going up in smoke. Which is exciting and concerning in equal measure.
 
 But we're in a moment with AI dev tooling where engineering leaders are starting to be done "let’s experiment" and have started to go “why aren’t you using it yet?”
