@@ -29,7 +29,7 @@ Now we’re doing it again with AI. The conversation has become culture war. Nei
 
 ## The measurement fantasy
 
-The Mythical Man-Month came out in 1975. Nearly **fifty years** later, the lesson still has n’t landed: software engineering doesn’t scale like factory work. Productivity in this field is messy, contextual, and hard to quantify. Fred Brooks warned that adding people to a late project makes it later. We’ve spent the decades since proving him right while trying to find a metric that will make the problem go away.
+The Mythical Man-Month came out in 1975. Nearly **fifty years** later, the lesson still hasn’t landed: software engineering doesn’t scale like factory work. Productivity in this field is messy, contextual, and hard to quantify. Fred Brooks warned that adding people to a late project makes it later. We’ve spent the decades since proving him right while trying to find a metric that will make the problem go away.
 
 We’ve tried them all. Lines of code, story points, tickets closed, commits per week, PRs merged, even tracking keyboard time like a Victorian mill manager (ok, loomer). They’re proxies, and mostly bad ones. They measure motion, not impact. You can rack up impressive numbers building something no one needs or fixing things no one notices.
 
@@ -41,7 +41,7 @@ Yes, AI code has problems. Big, big ones. Well documented so I wont bother going
 
 But writing it off wholesale as "slop" is lazy. Your job as an engineer is to make things better. Stay curious. Prod at the edges. Figure out where it’s useful, where it’s dangerous, and how to close the gap between the two.
 
-Hell, you could argue that’s the job of an engineer in any field taking the imperfect and making it work. It's a disciplin of constraints and inventions to overcome those. Bridges aren’t built from flawless steel, and planes aren’t carved out of one perfect block of aluminium. You work with what you’ve got, and you improve it until it’s fit for purpose. So the attitude of "it's not perfect so I'm not going to use it"? Come on.
+Hell, you could argue that’s the job of an engineer in any field taking the imperfect and making it work. It's a discipline of constraints and inventions to overcome those. Bridges aren’t built from flawless steel, and planes aren’t carved out of one perfect block of aluminium. You work with what you’ve got, and you improve it until it’s fit for purpose. So the attitude of "it's not perfect so I'm not going to use it"? Come on.
 
 ## So where does that leave us?
 
