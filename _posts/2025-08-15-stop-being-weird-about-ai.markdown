@@ -29,7 +29,7 @@ Now we’re doing it again with AI. The conversation has become culture war. Nei
 
 ## The measurement fantasy
 
-The Mythical Man-Month came out in 1975. Nearly **fifty years** later, the lesson still hasn’t landed: software engineering doesn’t scale like factory work. Productivity in this field is messy, contextual, and hard to quantify. Fred Brooks warned that adding people to a late project makes it later. We’ve spent the decades since proving him right while trying to find a metric that will make the problem go away.
+The Mythical Man-Month came out in 1975. **Fifty years** later, the lesson still hasn’t landed: software engineering doesn’t scale like factory work. Productivity in this field is messy, contextual, and hard to quantify. Fred Brooks warned that adding people to a late project makes it later. We’ve spent the decades since proving him right while trying to find a metric that will make the problem go away.
 
 We’ve tried them all. Lines of code, story points, tickets closed, commits per week, PRs merged, even tracking keyboard time like a Victorian mill manager (ok, loomer). They’re proxies, and mostly bad ones. They measure motion, not impact. You can rack up impressive numbers building something no one needs or fixing things no one notices.
 
