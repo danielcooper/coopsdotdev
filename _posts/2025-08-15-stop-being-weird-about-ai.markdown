@@ -7,7 +7,7 @@ title: Stop being weird about AI
 
 As I sit here and wonder if I really should let Kiro (which is very good btw) run whatever python script it fancies, it's hard not to notice just how big a change we've all been dealing with in the past year is. 50 years of hard won engineering lessions may well be going up in smoke. Which is exciting and concerning in equal measure.
 
-But we're in a moment with AI dev tooling where engineering leaders are starting to be done "let’s experiment" and have started to go “why aren’t you using it yet?”
+But we're in a moment with AI dev tooling where engineering leaders are starting to be done with "let’s experiment" and have started to go “why aren’t you using it yet?”
 
 It doesn’t seem to matter that most of them don’t actually do the job any more. They’re not writing the code, reviewing the PRs, or on call for the thing. But they’re happy to set usage targets for a tool they’ve never had to rely on in production.
 
