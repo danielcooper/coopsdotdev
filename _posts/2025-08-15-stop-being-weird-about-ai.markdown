@@ -11,7 +11,7 @@ But we're in a moment with AI dev tooling where engineering leaders are starting
 
 It doesn’t seem to matter that most of them don’t actually do the job any more. They’re not writing the code, reviewing the PRs, or on call for the thing. But they’re happy to set usage targets for a tool they’ve never had to rely on in production.
 
-AI isn’t just encouraged. It’s expected. Some teams are tracking usage like it’s a KPI. Others are “having conversations” with people who aren’t using it enough. We’ve basically invented AI absenteeism.
+AI is expected. Some teams are tracking usage like it’s a KPI. Others are “having conversations” with people who aren’t using it enough. We’ve basically invented AI absenteeism.
 
 The trouble is, product outcomes don’t automatically improve just because a tool got used. You can crank out AI-assisted commits all day and still ship something slow, awkward, or confusing. Usage is not value. All it measures is whether the magic button got pressed, not whether the thing you built is better for it.
 
